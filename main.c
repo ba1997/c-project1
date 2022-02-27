@@ -1,0 +1,6 @@
+int main()
+{
+        biggest();
+        factorial();
+}
+
