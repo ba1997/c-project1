@@ -3,4 +3,3 @@ int main()
         biggest();
         factorial();
 }
-
